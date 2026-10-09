@@ -1,0 +1,14 @@
+dncashman = Make it rain money
+dncornholio = God mode
+dnstuff = All weapons, full ammo, keycards, and inventory items
+dnweapons = all weapons and full ammo
+dnitems = full armor and all keycards/items
+dnkeys = all keycards
+dnclip = no-clip mode (walk through walls)
+dnscottyxyy = Level ward (replace x with the episode number and yy number for level number)
+dnshowmap = reveal the entire map
+dneat = restore full health
+dnnuk = full ammo
+dnhyper = use steroids
+dnmonsters = toggle monster spawning on/off
+dnview = switch to 3rd person view
